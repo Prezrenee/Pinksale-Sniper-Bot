@@ -8,6 +8,7 @@ Absolutely free sniper bot for Pinksale.
 4. Run Pinksale-Sniper-Bot-v1.1.exe.
 5. Enjoy and leave a star/watch/fork, if you like it! ^_-
 # Change log:
+- version 1.2. [minor changes]
 - version 1.1. [release]
 # Contact me:
 IF YOU HAVE ANY TROUBLES WITH PROGRAM, YOU CAN TELL ME ABOUT IT: r1ghtl3ftwork@gmail.com
